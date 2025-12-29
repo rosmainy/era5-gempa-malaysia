@@ -20,13 +20,12 @@
 | **Data** | **137MB** | Local Archive |
 | **Coverage** | **Selangor** | Expand Sabah/SW |
 
-## 🎓 **SCIENTIFIC BACKING**
-## 💼 **ENTERPRISE READY** *(Target Clients)*
-## 🔬 **RESEARCH PUBLICATIONS** *(Planned)*
-## 🛠️ **QUICK START** *(Prototype)*
-## 📈 **ROADMAP Q1 2026**
-## 👥 **JOIN THE MISSION**
-## 📧 **COLLABORATION**
+📍 Development: Ampang, Selangor (3.15°N, 101.75°E)
+🌙 Core Engine: Skyfield Falak (70.2% Cembung Muda validated)
+📊 AI Model: Bayesian ERA5 (86.7% akurasi - backtested)
+🗄️ Data Pipeline: ERA5 + 246,609 IBTrACS Typhoons (1950-2025)
+🕌 Turāth DB: Kalendar Piama Kedah + Multi-kitab corpus (digitized)
+🎓 Certification: Coursera "Modeling Climate Anomalies" (in progress)
 
 ---
 
